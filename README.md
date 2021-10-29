@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @sjgale
 - 👀 I’m interested in all things fullstack software development, although I have a special love for working with frontend technologies. I also love Basketball (Go Jazz!), playing guitar, mountain biking, and DIY projects.
-- 📫 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/samuelgale/) or [Instagram]() if you want to connect!
+- 📫 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/samuelgale/) or [Instagram](https://www.instagram.com/samueljgale/) if you want to connect!
